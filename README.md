@@ -491,6 +491,24 @@ The main script includes functions for:
 
 ---
 
+## Preview
+
+### Screenshots
+
+<img width="350" height="350" alt="Imagen pegada (3)" src="https://github.com/user-attachments/assets/1f96d422-5fa3-4d3e-b708-852ec13d686e" />
+
+<img width="350" height="350" alt="Imagen pegada (2)" src="https://github.com/user-attachments/assets/a7b35ed2-dcb0-40ef-a142-c015bc36474c" />
+
+<img width="350" height="350" alt="Imagen pegada (5)" src="https://github.com/user-attachments/assets/1ca8e740-4755-4383-9c75-805aa19ec243" />
+
+<img width="350" height="350" alt="Imagen pegada" src="https://github.com/user-attachments/assets/b3d01cba-1728-4545-b0a3-acf71a4125bc" />
+
+### Gameplay
+
+<img width="1536" height="960" alt="Gameplay" src="https://github.com/user-attachments/assets/91a04a76-8db2-496b-a5ee-a398f6fab16e" />
+
+---
+
 ## Credits
 
 ## Team
